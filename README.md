@@ -32,10 +32,9 @@ Networks are not cables and boxes. **They are agreements under uncertainty.** Yo
 - [x] Week 6: MANET Phase-1 (node.py with random port support)
 - [x] Week 7: Store-and-Forward Phase-1 (node.py, message_queue.py)
 
-### 🚧 In Progress / Planning
-- [ ] Week 8: Opportunistic Routing implementation
-- [ ] Week 9: Bio-Inspired Networking (pheromone routing)
-- [ ] Week 10: Quantum-Inspired Networking (conceptual)
+- [x] Week 8: Opportunistic Routing implementation
+- [x] Week 9: Bio-Inspired Networking (pheromone routing)
+- [x] Week 10: Quantum-Inspired Networking (conceptual)
 
 ### 📦 Codebase Structure
 
@@ -149,4 +148,4 @@ Networks are inherently uncertain. This curriculum teaches you to build programs
 
 ---
 
-**Current Status**: Weeks 1-7 implemented with all core functionality. Weeks 8-10 ready for implementation." 
+**Current Status**: Weeks 1-10 implemented with all core functionality. Weeks 8-10 ready for implementation." 
